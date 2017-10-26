@@ -1,12 +1,3 @@
-![Blog API with Django Rest Framework Logo](https://cfe-static.s3.amazonaws.com/media/blog-api-django-rest-framework/images/blog_api_cfe.png)
-
-Blog API with Django Rest Framework
-=========
-
-Create a RESTful API service for the blog we created in [Try Django 1.9](https://www.codingforentrepreneurs.com/projects/try-django-19/) and [Advancing the Blog](https://www.codingforentrepreneurs.com/projects/advancing-the-blog/). 
-
-
-
 ### Lecture Code
 
 [2- Getting Started](../../tree/bdfda815c221b7ea8b6cbde0b8ad0d4ad0e5475b)
